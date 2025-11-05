@@ -94,7 +94,7 @@ Here are some ideas to get you started:
   
 - **Databases:** PostgreSQL · MySQL · MongoDB
   
-- **Cloud & DevOps:** AWS (S3, RDS, EC2) · Docker · Kubernetes · GitHub Actions
+- **Cloud & DevOps:** AWS (S3, RDS, EC2) · Docker · Kubernetes <!--· GitHub Actions-->
    
 - **Tools:** Git · Tableau · PySpark · Material UI
   
